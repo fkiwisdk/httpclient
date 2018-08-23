@@ -1,6 +1,6 @@
 {
      "name":"fkiwisdk/httpclient",
      "autoload":{
-        "psr-4": {"kiwi\\httpclient\\": "src/"}     
+        "psr-4": {"http\\": "src/"}     
      }
 }
